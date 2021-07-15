@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ak47-crypto/react-deploy.git/static/css/main.90331e51.chunk.css",
+    "main.js": "/Ak47-crypto/react-deploy.git/static/js/main.f96cf1a0.chunk.js",
+    "main.js.map": "/Ak47-crypto/react-deploy.git/static/js/main.f96cf1a0.chunk.js.map",
+    "runtime-main.js": "/Ak47-crypto/react-deploy.git/static/js/runtime-main.ec8a694b.js",
+    "runtime-main.js.map": "/Ak47-crypto/react-deploy.git/static/js/runtime-main.ec8a694b.js.map",
+    "static/js/2.9a939039.chunk.js": "/Ak47-crypto/react-deploy.git/static/js/2.9a939039.chunk.js",
+    "static/js/2.9a939039.chunk.js.map": "/Ak47-crypto/react-deploy.git/static/js/2.9a939039.chunk.js.map",
+    "index.html": "/Ak47-crypto/react-deploy.git/index.html",
+    "static/css/main.90331e51.chunk.css.map": "/Ak47-crypto/react-deploy.git/static/css/main.90331e51.chunk.css.map",
+    "static/js/2.9a939039.chunk.js.LICENSE.txt": "/Ak47-crypto/react-deploy.git/static/js/2.9a939039.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8a694b.js",
+    "static/js/2.9a939039.chunk.js",
+    "static/css/main.90331e51.chunk.css",
+    "static/js/main.f96cf1a0.chunk.js"
+  ]
+}
